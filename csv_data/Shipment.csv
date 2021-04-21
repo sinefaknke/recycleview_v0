@@ -1,0 +1,2 @@
+出貨單編號,訂單編號,出貨時間,客戶編號,紀錄人編號,已出貨商品,未出貨商品
+Shipment_ID,Order_ID,Delivery_Time,User_ID,Recorder_ID,Shipped_Product_ID,Unshipped_Product_ID
